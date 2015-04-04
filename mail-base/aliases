@@ -1,2 +1,6 @@
 admin@example.org	admin@example.org
+test@example.org test@example.org
 @example.org 	catch-all@example.org
+
+source@mailtransfer.com source@mailtransfer.com
+destination@mailtransfer.com destination@mailtransfer.com
